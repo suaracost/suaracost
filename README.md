@@ -11,7 +11,12 @@
 
 ### About me 👨🏽‍💻
 
-⚠️ In progress ⚠️
+My name is Alejandro Suarez, I'm a system's engineering student at the [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio) in Bogota, Colombia. Besides my studies, I'm also working part-time at [Tabella](https://tabella.app) as QA engineer. 
+
+My diverse skill set includes experience in backend development, database administration, and mobile development, focusing on enhancing the visual aspects of the apps. In the future, I want to shift my focus towards frontend development and UI/UX design. Beyond coding and engineering, I love to spend my free time learning new things and enjoying a mix of videogames and sports.
+
+My GitHub repositories are only some of my projects and contributions in various domains, reflecting my journey in software development, you can check them below or clicking [here](https://github.com/suaracost?tab=repositories).
+
 
 ### Skills 📖
 
