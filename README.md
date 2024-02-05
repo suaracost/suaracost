@@ -28,7 +28,7 @@ My GitHub repositories are only some of my projects and contributions in various
 
 - Programming languages
 
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,flutter">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,flutter,html,css,javascript">
 
 - Database administration
 
@@ -37,7 +37,7 @@ My GitHub repositories are only some of my projects and contributions in various
 
 - Want to learn
 
-    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,typescript,python">
+    <img src="https://skillicons.dev/icons?i=react,typescript,python">
 
 ### Tools I've used 🛠️
 
