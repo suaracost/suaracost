@@ -41,7 +41,7 @@ My GitHub repositories are only some of my projects and contributions in various
 
 - Frameworks
 
-    <img src="https://skillicons.dev/icons?i=flutter,spring,angular,net">
+    <img src="https://skillicons.dev/icons?i=flutter,spring,angular,net,rails">
 
 - Want to learn
 
