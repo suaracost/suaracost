@@ -28,7 +28,7 @@ My GitHub repositories are only some of my projects and contributions in various
 
 - Programming languages
 
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,javascript,typescript">
+    <img src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,javascript,typescript,r,python">
 
 - Web development
 
@@ -45,8 +45,8 @@ My GitHub repositories are only some of my projects and contributions in various
 
 - Want to learn
 
-    <img src="https://skillicons.dev/icons?i=react,python">
+    <img src="https://skillicons.dev/icons?i=react,azure">
 
 ### Tools I've used 🛠️
 
-<img src="https://skillicons.dev/icons?i=notion,github,vscode,idea,androidstudio,figma,docker">
+<img src="https://skillicons.dev/icons?i=notion,github,vscode,idea,androidstudio,figma,docker,aws">
