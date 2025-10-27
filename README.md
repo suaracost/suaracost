@@ -13,7 +13,7 @@
 
 I’m Alejandro Suarez, a Systems Engineer with a specialization in Data Science and a background in Quality Assurance.
 
-I currently work at [Electronic Arts](https://www.ea.com/es-es/games/skate) as a Quality Analyst II, ensuring immersive player experiences through targeted test design and feature ownership. Previously, I worked at [Tabella](https://tabella.app) as a QA Engineer, where I collaborated closely with developers to improve software quality and testing workflows.
+I currently work at [Electronic Arts](https://www.ea.com/games/skate) as a Quality Analyst II, ensuring immersive player experiences through targeted test design and feature ownership. Previously, I worked at [Tabella](https://tabella.app) as a QA Engineer, where I collaborated closely with developers to improve software quality and testing workflows.
 
 My GitHub repositories are only some of my projects and contributions in various domains, reflecting my journey in software development, you can check them below or clicking [here](https://github.com/suaracost?tab=repositories).
 
